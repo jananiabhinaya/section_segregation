@@ -1,0 +1,781 @@
+Running_number,Name,Department
+8,Aandaleeb ,BME
+16,Abhibhava ,BME
+24,Abhilash ,BME
+32,Abhinandana,BME
+40,Abhisyanta ,BME
+48,Abjit ,BME
+56,Acaryatanaya ,BME
+64,Adalarasu ,BME
+72,Badri ,BME
+80,Bakhtawar,BME
+88,Balakrishna,BME
+96,Balaram ,BME
+104,Banbihari ,BME
+112,Barid ,BME
+120,Chaman,BME
+128,Chandrabhan ,BME
+136,Chandrakumar ,BME
+144,Chandratha,BME
+152,Charudatta,BME
+160,Chellapan,BME
+168,Chidananda ,BME
+176,Chintya,BME
+184,Chitragupta,BME
+192,Chittaranjan,BME
+200,Daksha,BME
+208,Damian ,BME
+216,Dasharath ,BME
+224,Dayasagara,BME
+232,Deepankar,BME
+240,Ekachith,BME
+248,Ekanga,BME
+256,Elil,BME
+264,Evyavan,BME
+272,Faisal,BME
+280,Fanindra ,BME
+288,Faris ,BME
+296,Firoz ,BME
+304,Ganaka,BME
+312,Gandira,BME
+320,Ganjan,BME
+328,Gayan,BME
+336,Girilal,BME
+344,Gopichand ,BME
+352,Gudakesha ,BME
+360,Gunjan ,BME
+368,Gurnam,BME
+376,Habib ,BME
+384,Hanumant ,BME
+392,Harihar,BME
+400,Hariram ,BME
+408,Harmendra ,BME
+416,Harshil ,BME
+424,Hem ,BME
+432,Ilamporai,BME
+440,Ilavenil,BME
+448,Indivar ,BME
+456,Indrasuta,BME
+464,Inesh,BME
+472,Irya,BME
+480,Iyyappan,BME
+7,Aalap ,Chemical
+15,Abhi ,Chemical
+23,Abhijvala ,Chemical
+31,Abhinanda ,Chemical
+39,Abhisumat ,Chemical
+47,Abjayoni ,Chemical
+55,Acaryasuta ,Chemical
+63,Acyutaraya ,Chemical
+71,Badal ,Chemical
+79,Bajrang ,Chemical
+87,Balaji,Chemical
+95,Balaraj ,Chemical
+103,Balwant ,Chemical
+111,Bansilal ,Chemical
+119,Chakshu ,Chemical
+127,Chandra,Chemical
+135,Chandrakishore ,Chemical
+143,Chandrashekhar,Chemical
+151,Charu,Chemical
+159,Chellamuthu,Chemical
+167,Chidambaram,Chemical
+175,Chinthanaichelvan,Chemical
+183,Chitrabhanu ,Chemical
+191,Chittaprasad,Chemical
+199,Daiwik ,Chemical
+207,Daman ,Chemical
+215,Daruka,Chemical
+223,Dayanidhi,Chemical
+231,Deepan ,Chemical
+239,Ekachandra,Chemical
+247,Ekanath ,Chemical
+255,Elango,Chemical
+263,Etash,Chemical
+271,Fahad,Chemical
+279,Fanibhusan ,Chemical
+287,Farid ,Chemical
+295,Firdaus ,Chemical
+303,Gajendra,Chemical
+311,Gandhik ,Chemical
+319,Gangol ,Chemical
+327,Gayak,Chemical
+335,Girik ,Chemical
+343,Gopesh ,Chemical
+351,Grihith,Chemical
+359,Gunayukth,Chemical
+367,Gurmeet,Chemical
+375,Gyandev ,Chemical
+383,Hanuman ,Chemical
+391,Harigopal ,Chemical
+399,Hariraj,Chemical
+407,Harkrishna ,Chemical
+415,Harshavardhan ,Chemical
+423,Heer ,Chemical
+431,Hemant,Chemical
+439,Ilavarasan,Chemical
+447,Indeever,Chemical
+455,Indrasena,Chemical
+463,Indushekhar ,Chemical
+471,Irshaad ,Chemical
+479,Itish,Chemical
+6,Aakash ,Civil
+14,Abheek ,Civil
+22,Abhijit,Civil
+30,Abhinabhas ,Civil
+38,Abhisoka ,Civil
+46,Abhyudita ,Civil
+54,Acaryanandana ,Civil
+62,Acintya ,Civil
+70,Adhita ,Civil
+78,Bahurai,Civil
+86,Balagovind ,Civil
+94,Balanath,Civil
+102,Balvinder ,Civil
+110,Bansi,Civil
+118,Chakrapani ,Civil
+126,Chandan,Civil
+134,Chandrakirthi,Civil
+142,Chandrashekar ,Civil
+150,Charanjit,Civil
+158,Chellamani,Civil
+166,Chidambar,Civil
+174,Chintan,Civil
+182,Chithayu,Civil
+190,Chitta ,Civil
+198,Daivya ,Civil
+206,Dalbhya,Civil
+214,Darshan ,Civil
+222,Dayanand,Civil
+230,Deepak,Civil
+238,Eka,Civil
+246,Ekana,Civil
+254,Ekram ,Civil
+262,Eshwar ,Civil
+270,Fadl Ullah ,Civil
+278,Phalguni ,Civil
+286,Farhat ,Civil
+294,Fidaa ,Civil
+302,Gajanand ,Civil
+310,Gandharva,Civil
+318,Gangeya ,Civil
+326,Gavisht,Civil
+334,Giridhar,Civil
+342,Gopan,Civil
+350,Granthik,Civil
+358,Gunaratna,Civil
+366,Gurdeep,Civil
+374,Gyan ,Civil
+382,Hansaraj,Civil
+390,Haridas ,Civil
+398,Hariprasad ,Civil
+406,Harjeet ,Civil
+414,Harshaman,Civil
+422,Hassan ,Civil
+430,Hemanga ,Civil
+438,Ilavalagan,Civil
+446,Inbanathan,Civil
+454,Indraneel,Civil
+462,Indumat,Civil
+470,Iri,Civil
+478,Ishwar,Civil
+495,Jagan,CSE
+4,Aafreen ,CSE
+12,Abhayananda ,CSE
+20,Abhijat,CSE
+28,Abhimanyusuta ,CSE
+36,Abhirup ,CSE
+44,Abhyagni ,CSE
+52,Acanda ,CSE
+60,Achyut ,CSE
+68,Adhikara ,CSE
+76,Bahuleya ,CSE
+84,Baladhi,CSE
+92,Balamurugan,CSE
+100,Balgopal ,CSE
+108,Bankim ,CSE
+116,Chakradev ,CSE
+124,Chanchal ,CSE
+132,Chandrakanta ,CSE
+140,Chandraprakash,CSE
+148,Chapal,CSE
+156,Chaturbhuj,CSE
+164,Chevatkodiyon,CSE
+172,Chinnadurai,CSE
+180,Chirayu ,CSE
+188,Chitrasen ,CSE
+196,Dabeet ,CSE
+204,Dalajit,CSE
+212,Darpak,CSE
+220,Dayada,CSE
+228,Deenabandhu ,CSE
+236,Deepit ,CSE
+244,Ekalinga,CSE
+252,Ekatan,CSE
+260,Ellu,CSE
+268,Fadi,CSE
+276,Falak ,CSE
+284,Fareed ,CSE
+292,Fatik ,CSE
+300,Gaganvihari,CSE
+308,Gandhar,CSE
+316,Gangadutt,CSE
+324,Gaurinath ,CSE
+332,Giri ,CSE
+340,Gokul ,CSE
+348,Govinda ,CSE
+356,Gulzarilal ,CSE
+364,Gurcharan,CSE
+372,Gurudas,CSE
+380,Hamir ,CSE
+388,Haresh,CSE
+396,Harinarayan ,CSE
+404,Haritbaran ,CSE
+412,Harshad,CSE
+420,Hashmat ,CSE
+428,Heman,CSE
+436,Ilango,CSE
+444,Imtiaz ,CSE
+452,Indrajit,CSE
+460,Indukanta ,CSE
+468,Iraiyavan,CSE
+476,Ishan,CSE
+484,Jagachandra,CSE
+492,Jagadish ,CSE
+500,Jagjeevan ,CSE
+504,Jaichand ,CSE
+509,Jaikrishna ,CSE
+514,Jaisal ,CSE
+519,Jalad,CSE
+524,Jalindra,CSE
+529,Janith,CSE
+534,Japesh ,CSE
+539,Jashun,CSE
+544,Jatan ,CSE
+549,Jawahar,CSE
+554,Jayanta ,CSE
+559,Jehangir,CSE
+564,Jinendra,CSE
+569,Jnyaneshwar,CSE
+574,Jusal ,CSE
+579,Jyotirmoy ,CSE
+584,Kailashnath ,CSE
+589,Kalimohan ,CSE
+594,Kalya,CSE
+599,Kamalapati ,CSE
+604,Kamik,CSE
+609,Kamukh,CSE
+614,Kanchan ,CSE
+619,Kanhaiyalal ,CSE
+624,Kanu ,CSE
+629,Murad ,CSE
+634,Murarilal ,CSE
+639,Nabhas,CSE
+644,Nadal,CSE
+649,Omanand,CSE
+654,Pachaimani ,CSE
+659,Rutujit,CSE
+664,Sachetan,CSE
+669,Turanyu,CSE
+674,Udar ,CSE
+679,Uddhar ,CSE
+684,Vikramendra,CSE
+689,Vilokan ,CSE
+694,Yajat ,CSE
+699,Yash,CSE
+704,Yatin,CSE
+709,Yogesh,CSE
+714,Yuvaraj,CSE
+719,Supriti,CSE
+724,Suranjana,CSE
+729,Suruchi,CSE
+734,Sushanti,CSE
+739,Urna,CSE
+744,Usha,CSE
+749,Uthami,CSE
+754,Yashoda,CSE
+759,Yuthika,CSE
+764,Eshanya,CSE
+769,Fajyaz,CSE
+774,Fatima,CSE
+779,Fulki,CSE
+494,Jagajeevan,ECE
+2,Aadesh ,ECE
+10,Abeer ,ECE
+18,Abhidi ,ECE
+26,Abhimani ,ECE
+34,Abhinav,ECE
+42,Abhra ,ECE
+50,Acalendra ,ECE
+58,Achal ,ECE
+66,Adesh ,ECE
+74,Badriprasad,ECE
+82,Balachandra,ECE
+90,Balamani,ECE
+98,Balbir ,ECE
+106,Bandhul ,ECE
+114,Chaitanya,ECE
+122,Champak ,ECE
+130,Chandrahas,ECE
+138,Chandran ,ECE
+146,Chandrodaya,ECE
+154,Charuvardhana,ECE
+162,Chetan,ECE
+170,Chinmay,ECE
+178,Chiranjeev,ECE
+186,Chitral ,ECE
+194,Chittesh ,ECE
+202,Dakshi ,ECE
+210,Danuj,ECE
+218,Dasmaya,ECE
+226,Debashis ,ECE
+234,Deependu ,ECE
+242,Ekaksha,ECE
+250,Ekapad,ECE
+258,Elilarasu,ECE
+266,Faaris,ECE
+274,Faiz ,ECE
+282,Fanishwar ,ECE
+290,Fateen ,ECE
+298,Fuad ,ECE
+306,Ganaraj,ECE
+314,Ganesh ,ECE
+322,Gaurang,ECE
+330,Ghalib ,ECE
+338,Giriraj,ECE
+346,Gourishankar ,ECE
+354,Gulfam ,ECE
+362,Gupil ,ECE
+370,Gursharan,ECE
+378,Hakesh,ECE
+386,Harekrishna ,ECE
+394,Harilal,ECE
+402,Harishankar ,ECE
+410,Harsh,ECE
+418,Harshul,ECE
+426,Hemadri,ECE
+434,Ilancheliyan,ECE
+442,Iman ,ECE
+450,Indradutt,ECE
+458,Indubhushan ,ECE
+466,Intekhab ,ECE
+474,Isaivalan,ECE
+482,Jadhav,ECE
+490,Jagadhidh,ECE
+498,Jagath,ECE
+501,Jagmohan,ECE
+506,Jaidev,ECE
+511,Jainarayan ,ECE
+516,Jaisukh ,ECE
+521,Jalendra,ECE
+526,Janamejay,ECE
+531,Japa ,ECE
+536,Jasapal ,ECE
+541,Jasraj,ECE
+546,Jatya,ECE
+551,Jayadeep,ECE
+556,Jaysukh,ECE
+561,Jhoomer ,ECE
+566,Jitendra,ECE
+571,Jograj ,ECE
+576,Jyotiprakash ,ECE
+581,Kailas ,ECE
+586,Kalash ,ECE
+591,Kaliranjan ,ECE
+596,Kamadev,ECE
+601,Kamalnayan ,ECE
+606,Kamod ,ECE
+611,Kanak,ECE
+616,Kandarpa ,ECE
+621,Kanishta,ECE
+626,Kanwal ,ECE
+631,Muralidhar ,ECE
+636,Nabarun ,ECE
+641,Nabhith,ECE
+646,Nadir ,ECE
+651,Omja ,ECE
+656,Padman ,ECE
+661,Sabhya,ECE
+666,Sachit ,ECE
+671,Tusharkanti ,ECE
+676,Udayachal ,ECE
+681,Vikram,ECE
+686,Vikranta ,ECE
+691,Vinay,ECE
+696,Yajnarup ,ECE
+701,Yashodhara,ECE
+706,Yayin ,ECE
+711,Yudhisthir,ECE
+716,Suniti,ECE
+721,Surabhi,ECE
+726,Surekha,ECE
+731,Surya,ECE
+736,Urmila,ECE
+741,Urvashi,ECE
+746,Ushashi,ECE
+751,Yashawanthi ,ECE
+756,Yogita,ECE
+761,Esha,ECE
+766,Eshita,ECE
+771,Farha,ECE
+776,Firoza,ECE
+488,Jagadeep,EEE
+1,Aachman ,EEE
+9,Aashish ,EEE
+17,Abhicandra ,EEE
+25,Abhimand ,EEE
+33,Abhinatha,EEE
+41,Abhivira ,EEE
+49,Acalapati ,EEE
+57,Acchindra ,EEE
+65,Adarsh ,EEE
+73,Badrinath,EEE
+81,Balaaditya,EEE
+89,Balakumar,EEE
+97,Balaravi,EEE
+105,Bandhu ,EEE
+113,Baridbaran ,EEE
+121,Chamanlal ,EEE
+129,Chandrachur ,EEE
+137,Chandramohan ,EEE
+145,Chandresh,EEE
+153,Charudutta,EEE
+161,Chemmal,EEE
+169,Chiman ,EEE
+177,Chirag,EEE
+185,Chitraksh,EEE
+193,Chittaswarup,EEE
+201,Dakshesh,EEE
+209,Damodar,EEE
+217,Dasharathi ,EEE
+225,Dayashankar,EEE
+233,Deependra,EEE
+241,Ekagrah,EEE
+249,Ekansh,EEE
+257,Elilarasan,EEE
+265,Faakhir,EEE
+273,Faiyaz ,EEE
+281,Fanish ,EEE
+289,Farokh ,EEE
+297,Fravash ,EEE
+305,Ganapati ,EEE
+313,Ganendra,EEE
+321,Garisht,EEE
+329,Geet,EEE
+337,Girindra ,EEE
+345,Gorakh ,EEE
+353,Gulab,EEE
+361,Gunwant ,EEE
+369,Gurpreet ,EEE
+377,Hafiz ,EEE
+385,Hardik ,EEE
+393,Harikanth,EEE
+401,Harish,EEE
+409,Haroon ,EEE
+417,Harshit ,EEE
+425,Hemachandra,EEE
+433,Ilamurugu,EEE
+441,Ilesh,EEE
+449,Indra,EEE
+457,Indratan,EEE
+465,Iniyavan,EEE
+473,Isaiarasu,EEE
+481,Izhar ,EEE
+489,Jagadev,EEE
+497,Jagannath,EEE
+502,Jahan ,EEE
+507,Jaigath,EEE
+512,Jaipal ,EEE
+517,Jaitra,EEE
+522,Jalendu ,EEE
+527,Janardan,EEE
+532,Japan,EEE
+537,Jasbeer ,EEE
+542,Jasveer,EEE
+547,Javed ,EEE
+552,Jayaditya,EEE
+557,Jeemutbahan ,EEE
+562,Jignesh ,EEE
+567,Jivitesh ,EEE
+572,Jugnu ,EEE
+577,Jyotiranjan ,EEE
+582,Kailash,EEE
+587,Kalicharan ,EEE
+592,Kalith,EEE
+597,Kamal,EEE
+602,Kaman,EEE
+607,Kamraj ,EEE
+612,Kanal,EEE
+617,Kanha,EEE
+622,Kantilal ,EEE
+627,Kanwaljeet ,EEE
+632,Muralimanohar ,EEE
+637,Nabendu ,EEE
+642,Nabhya,EEE
+647,Nagarin,EEE
+652,Omkar ,EEE
+657,Rustom ,EEE
+662,Sacchidananda ,EEE
+667,Sadaiappan,EEE
+672,Tusharsuvra ,EEE
+677,Udayan ,EEE
+682,Vikramaditya ,EEE
+687,Vilas ,EEE
+692,Vinayak ,EEE
+697,Yajnesh ,EEE
+702,Yashpal,EEE
+707,Yoganand,EEE
+712,Yugma ,EEE
+717,Suparna,EEE
+722,Suraksha,EEE
+727,Surina,EEE
+732,Suryakanti,EEE
+737,"Urmila, Urmil",EEE
+742,Urvasi,EEE
+747,Ushma,EEE
+752,Yashawini,EEE
+757,Yosana,EEE
+762,Eshana,EEE
+767,Ethaha,EEE
+772,Faria,EEE
+777,Foolan,EEE
+487,Jagadbandu ,IT
+5,Aakar ,IT
+13,Abhayaprada ,IT
+21,Abhijaya ,IT
+29,Abhimoda ,IT
+37,Abhishek,IT
+45,Abhyudaya ,IT
+53,Acarya ,IT
+61,Achyuta,IT
+69,Adhipa ,IT
+77,Bahumanya,IT
+85,Baladhitya,IT
+93,Balan,IT
+101,Balram,IT
+109,Bankimchandra ,IT
+117,Chakradhar ,IT
+125,Chandak ,IT
+133,Chandrakiran,IT
+141,Chandraraj ,IT
+149,Charan,IT
+157,Cheliyan,IT
+165,Chhandak ,IT
+173,Chintamani,IT
+181,Chirtrang,IT
+189,Chitresh ,IT
+197,Daha ,IT
+205,Dalapathi,IT
+213,Darpan ,IT
+221,Dayakara,IT
+229,Deep ,IT
+237,Ehimay,IT
+245,Ekambar ,IT
+253,Eknath,IT
+261,Elumalai,IT
+269,Fadl,IT
+277,Falgu ,IT
+285,Farhad ,IT
+293,Fawaz ,IT
+301,Gajanan,IT
+309,Gandharaj,IT
+317,Gangesh ,IT
+325,Gautam ,IT
+333,Giridari ,IT
+341,Gopal,IT
+349,Grahish,IT
+357,Gunalan,IT
+365,Gurdayal,IT
+373,Gurudutt,IT
+381,Hans ,IT
+389,Hari,IT
+397,Hariom ,IT
+405,Harith,IT
+413,Harshal,IT
+421,Hasit ,IT
+429,Hemang,IT
+437,Ilanthirayan,IT
+445,Inakanta,IT
+453,Indrakanta ,IT
+461,Indulal ,IT
+469,Irfan ,IT
+477,Ishrat ,IT
+485,Jagad,IT
+493,Jagajeet,IT
+486,Jagadayu,IT
+503,Jai,IT
+508,Jaigopal ,IT
+513,Jairaj ,IT
+518,Jaiwant ,IT
+523,Jalil ,IT
+528,Janav,IT
+533,Japendra ,IT
+538,Jashan ,IT
+543,Jaswant,IT
+548,Javin,IT
+553,Jayant,IT
+558,Jeevan,IT
+563,Jihan ,IT
+568,Jnyandeep,IT
+573,Jujhar ,IT
+578,Jyotirdhar ,IT
+583,Kailashchandra,IT
+588,Kalidas,IT
+593,Kalpa,IT
+598,Kamalakar ,IT
+603,Kamat,IT
+608,Kamran ,IT
+613,Kanan,IT
+618,Kanhaiya ,IT
+623,Kantimoy ,IT
+628,Muni ,IT
+633,Murari ,IT
+638,Nabhanyu,IT
+643,Nachiketa,IT
+648,Nagarjun,IT
+653,Pachai ,IT
+658,Rutajit,IT
+663,Sachet ,IT
+668,Sadanand,IT
+673,Tyagraja ,IT
+678,Udayasooriyan ,IT
+683,Vikramajit ,IT
+688,Vilok ,IT
+693,Vineet ,IT
+698,Yamajith,IT
+703,Yashwant,IT
+708,Yogendra,IT
+713,Yukta ,IT
+718,Suprabha,IT
+723,Surama,IT
+728,Surotama,IT
+733,Sushama,IT
+738,Urmimala,IT
+743,Urvi,IT
+748,Usri,IT
+753,Yashila,IT
+758,Yuktha,IT
+763,Eshanika,IT
+768,Faiza,IT
+773,Farida,IT
+778,Foolwati,IT
+496,Jaganmay ,Mech
+3,Aadi,Mech
+11,Abhay,Mech
+19,Abhihita ,Mech
+27,Abhimanyu ,Mech
+35,Abhinava ,Mech
+43,Abhrakasin ,Mech
+51,Acalesvara ,Mech
+59,Achintya,Mech
+67,Adhik ,Mech
+75,Bahubali ,Mech
+83,Balachandrav,Mech
+91,Balamohan,Mech
+99,Baldev,Mech
+107,Bankebihari ,Mech
+115,Chakor ,Mech
+123,Chanakya,Mech
+131,Chandrak,Mech
+139,Chandranath ,Mech
+147,Chanyana,Mech
+155,Charuvindha,Mech
+163,Chetana ,Mech
+171,Chinmayananda ,Mech
+179,Chirantan ,Mech
+187,Chitrarath ,Mech
+195,Chudamani,Mech
+203,Dakshina,Mech
+211,Danvir,Mech
+219,Dattatreya,Mech
+227,Debashish,Mech
+235,Deepesh ,Mech
+243,Ekalavya ,Mech
+251,Ekaraj,Mech
+259,Elilvendan,Mech
+267,Faarooq,Mech
+275,Fakhry ,Mech
+283,Faraz ,Mech
+291,Fateh ,Mech
+299,Gagan,Mech
+307,Gandesha,Mech
+315,Gangadhar,Mech
+323,Gaurav,Mech
+331,Ghanashyam ,Mech
+339,Girish,Mech
+347,Govind,Mech
+355,Gulzar ,Mech
+363,Gurbachan,Mech
+371,Guru,Mech
+379,Hamid ,Mech
+387,Harendra ,Mech
+395,Harinaksh,Mech
+403,Harishchandra ,Mech
+411,Harsha,Mech
+419,Harshvardhan,Mech
+427,Hemamdar ,Mech
+435,Ilandevan,Mech
+443,Imaran ,Mech
+451,Indrajeet ,Mech
+459,Induhasan ,Mech
+467,Iqbal ,Mech
+475,Isar ,Mech
+483,Jag ,Mech
+491,Jagadip,Mech
+499,Jagesh,Mech
+505,Jaidayal ,Mech
+510,Jaimini ,Mech
+515,Jaishankar ,Mech
+520,Jalal ,Mech
+525,Janak,Mech
+530,Janya,Mech
+535,Jasamit ,Mech
+540,Jaspal ,Mech
+545,Jatin ,Mech
+550,Jayad,Mech
+555,Jayashekhar,Mech
+560,Jenya,Mech
+565,Jishnu,Mech
+570,Jogindra,Mech
+575,Jyotichandra ,Mech
+580,Kabir,Mech
+585,Kalapriya,Mech
+590,Kalipada ,Mech
+595,Kalyan ,Mech
+600,Kamalesh,Mech
+605,Kamlesh,Mech
+610,Kanad ,Mech
+615,Kandan,Mech
+620,Kanishka ,Mech
+625,Kanvar ,Mech
+630,Murali ,Mech
+635,Musheer ,Mech
+640,Nabhi ,Mech
+645,Nadin,Mech
+650,Omar ,Mech
+655,Pachaimuthu ,Mech
+660,Sabarinathan,Mech
+665,Sachin ,Mech
+670,Tushar,Mech
+675,Uday,Mech
+680,Uddhav ,Mech
+685,Vikrant,Mech
+690,Vimal,Mech
+695,Yajnadhar ,Mech
+700,Yashodhan,Mech
+705,Yatindra ,Mech
+710,Yudhajit,Mech
+715,Yuyutsu,Mech
+720,Supriya,Mech
+725,Suravinda,Mech
+730,Surupa,Mech
+735,Sushila,Mech
+740,Urshita,Mech
+745,Ushakiran,Mech
+750,Utpala,Mech
+755,Yogini,Mech
+760,Yuvika,Mech
+765,Eshika,Mech
+770,Falgun,Mech
+775,Fawiza,Mech
+780,Fullara,Mech
